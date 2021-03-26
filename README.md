@@ -1,1 +1,4 @@
 # DotFiles
+
+- fish
+- iTerm2
